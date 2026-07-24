@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "HG2051-2026_sem1",
+  "short_name": "hg2051-2026-sem1",
+  "term": "2026 Sem1",
+  "org": "HG2051-ntu",
+  "team": {
+    "id": 18671890,
+    "slug": "classroom50-hg2051-2026-sem1"
+  },
+  "teams": {
+    "teacher": {
+      "id": 18671891,
+      "slug": "classroom50-hg2051-2026-sem1-teacher"
+    },
+    "hta": {
+      "id": 18671892,
+      "slug": "classroom50-hg2051-2026-sem1-hta"
+    },
+    "ta": {
+      "id": 18671893,
+      "slug": "classroom50-hg2051-2026-sem1-ta"
+    }
+  }
+}
