@@ -1,4 +1,25 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "hw1",
+      "name": "hw1",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "HG2051-ntu",
+        "repo": "hw1",
+        "branch": "main"
+      },
+      "tests": [
+        {
+          "name": "check empty nonempty",
+          "type": "python",
+          "run": "python3 -m pytest",
+          "points": 10
+        }
+      ]
+    }
+  ]
 }
